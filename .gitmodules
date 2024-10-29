@@ -1,0 +1,6 @@
+[submodule "IS-Communications-App"]
+	path = IS-Communications-App
+	url = https://github.com/lbaldwin26/IS-Communications-App
+[submodule "IS-Communication-Server"]
+	path = IS-Communication-Server
+	url = https://github.com/lbaldwin26/IS-Communication-Server
